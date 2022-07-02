@@ -1,6 +1,7 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live deployment using netlify
+
+https://62b1bb0b1949a333dd9a8be3--spectacular-tartufo-e24ae2.netlify.app/
 
 This is my portfolio website created using HTML,CSS AND REACT.JS. 
 Also used email.js,NPM,react frameworks such framer-motion for animation ,swipper
